@@ -37,7 +37,7 @@ Attendly provides an intuitive dashboard, real-time attendance calculations, att
 Here is a preview of the Smart Attendance Tracker application interface.
 
 <p align="center">
-  <img src="screenshots/Smart-Attendance-Tracker-UI-Collage.png" alt="Smart Attendance Tracker UI Preview" width="800"/>
+  <img src="screenshots/Smart%20Attendance%20Tracker%20UI%20Collage.png" alt="Smart Attendance Tracker UI Preview" width="850"/>
 </p>
 
 ## 🚀 Getting Started
