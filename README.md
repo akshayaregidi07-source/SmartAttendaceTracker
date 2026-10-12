@@ -31,13 +31,13 @@ Attendly provides an intuitive dashboard, real-time attendance calculations, att
 | HTTP | REST API requests |
 | Flutter Test | Unit testing |
 
-## 📸 UI Preview
+
 ## 📸 UI Preview
 
 Here is a preview of the Smart Attendance Tracker application interface.
 
 <p align="center">
-  <img src="screenshots/app-preview.png" alt="Smart Attendance Tracker UI Preview" width="800"/>
+  <img src="screenshots/Smart-Attendance-Tracker-UI-Collage.png" alt="Smart Attendance Tracker UI Preview" width="800"/>
 </p>
 
 ## 🚀 Getting Started
