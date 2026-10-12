@@ -32,20 +32,13 @@ Attendly provides an intuitive dashboard, real-time attendance calculations, att
 | Flutter Test | Unit testing |
 
 ## 📸 UI Preview
+## 📸 UI Preview
 
-Add screenshots of your running application to a `screenshots/` directory in this repository.
+Here is a preview of the Smart Attendance Tracker application interface.
 
-Once you add the files, you can display them here:
-
-| Dashboard | Subjects |
-|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Subjects](screenshots/subjects.png) |
-
-| Attendance Calculator | History |
-|---|---|
-| ![Calculator](screenshots/calculator.png) | ![History](screenshots/history.png) |
-
-*Note: Add the corresponding screenshot files before relying on these image previews.*
+<p align="center">
+  <img src="screenshots/app-preview.png" alt="Smart Attendance Tracker UI Preview" width="800"/>
+</p>
 
 ## 🚀 Getting Started
 
